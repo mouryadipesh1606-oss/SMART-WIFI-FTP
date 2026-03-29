@@ -10,7 +10,7 @@ A Python-based FTP system that allows file sharing between devices connected to 
 ![GUI](https://github.com/mouryadipesh1606-oss/SMART-WIFI-FTP/blob/main/assets/ftp-wifi-manager.jpeg)
 
 ### 🔐 Login Screen
-![Login](assets/login.png)
+![Login](https://github.com/mouryadipesh1606-oss/SMART-WIFI-FTP/blob/main/assets/sign_up_ftp.jpeg)
 
 ### 📁 Folder Sharing
 ![Folder](assets/folder.png)
