@@ -1,4 +1,4 @@
-# 🌐 AirBridgeX | WiFi FTP System
+# 🌐 SMART_WIFI_FTP | WiFi FTP System
 
 A Python-based FTP system that allows file sharing between devices connected to the same WiFi network. Includes both CLI and GUI versions for better usability.
 
